@@ -1,0 +1,25 @@
+.column {
+  width: 300px;
+  float: left;
+  text-align: center;
+  border: 2px solid red;
+  margin: 5px;
+
+}
+
+.column h3 {
+  font-size: 40px;
+  color: red;
+ font-weight: bold;
+
+}
+
+.intro {
+  text-align: center;
+  font-size: 18px;
+  color: blue;
+}
+
+.sidebar {
+  float: left;
+}
