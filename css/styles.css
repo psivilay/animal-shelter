@@ -23,3 +23,15 @@
 .sidebar {
   float: left;
 }
+
+@media screen and (max-width: 1000px) and (min-width: 700px) {
+  body {
+    color: green;
+  }
+}
+
+@media screen and (max-width: 480px) and (min-width: 300px) {
+  body {
+    color: orange;
+  }
+}
